@@ -1,0 +1,8 @@
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Interfaces\bin\Debug\netcoreapp2.1\ReportService.Interfaces.deps.json
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Interfaces\bin\Debug\netcoreapp2.1\ReportService.Interfaces.dll
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Interfaces\bin\Debug\netcoreapp2.1\ReportService.Interfaces.pdb
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.AssemblyInfoInputs.cache
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.AssemblyInfo.cs
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Interfaces\obj\Debug\netcoreapp2.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Interfaces\obj\Debug\netcoreapp2.1\ReportService.Interfaces.dll
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Interfaces\obj\Debug\netcoreapp2.1\ReportService.Interfaces.pdb

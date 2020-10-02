@@ -1,0 +1,14 @@
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeSalaryApi\bin\Debug\netcoreapp2.1\ReportService.EmployeeSalaryApi.deps.json
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeSalaryApi\bin\Debug\netcoreapp2.1\ReportService.EmployeeSalaryApi.dll
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeSalaryApi\bin\Debug\netcoreapp2.1\ReportService.EmployeeSalaryApi.pdb
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeSalaryApi\bin\Debug\netcoreapp2.1\ReportService.BaseApi.dll
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeSalaryApi\bin\Debug\netcoreapp2.1\ReportService.Interfaces.dll
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeSalaryApi\bin\Debug\netcoreapp2.1\ReportService.BaseApi.pdb
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeSalaryApi\bin\Debug\netcoreapp2.1\ReportService.Interfaces.pdb
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeSalaryApi\obj\Debug\netcoreapp2.1\EmployeeSalaryApi.csprojAssemblyReference.cache
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeSalaryApi\obj\Debug\netcoreapp2.1\EmployeeSalaryApi.AssemblyInfoInputs.cache
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeSalaryApi\obj\Debug\netcoreapp2.1\EmployeeSalaryApi.AssemblyInfo.cs
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeSalaryApi\obj\Debug\netcoreapp2.1\EmployeeSalaryApi.csproj.CoreCompileInputs.cache
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeSalaryApi\obj\Debug\netcoreapp2.1\EmployeeSalaryApi.csproj.CopyComplete
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeSalaryApi\obj\Debug\netcoreapp2.1\ReportService.EmployeeSalaryApi.dll
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeSalaryApi\obj\Debug\netcoreapp2.1\ReportService.EmployeeSalaryApi.pdb

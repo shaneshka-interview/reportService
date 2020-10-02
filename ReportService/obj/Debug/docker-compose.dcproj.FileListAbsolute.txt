@@ -1,0 +1,1 @@
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

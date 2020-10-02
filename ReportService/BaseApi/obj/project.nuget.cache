@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X31fOGGsqY4q+5C1qzXuVSK/zn+F+2rO3SPEmr0zvTHUNXVbquxENuJ9tey9cV17OxkMleJCJyPlN35BrMyWHw==",
+  "success": true,
+  "projectFilePath": "/Users/alexandrdurnev/Projects/ReportTestService-master/ReportService/BaseApi/BaseApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexandrdurnev/.nuget/packages/microsoft.extensions.logging.abstractions/2.0.0/microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

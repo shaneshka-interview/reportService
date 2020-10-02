@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ohcAk58I2IUBAqdicL4M8lpKkrtg6R240mmZJkZoJ6BlOZ+ohqptbUL4mEsZH3tW9qyPMlssE4Q9v/s/PO3VpA==",
+  "success": true,
+  "projectFilePath": "/Users/alexandrdurnev/Projects/ReportTestService-master/ReportService/EmployeeSalaryApi/EmployeeSalaryApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexandrdurnev/.nuget/packages/microsoft.extensions.logging.abstractions/2.0.0/microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

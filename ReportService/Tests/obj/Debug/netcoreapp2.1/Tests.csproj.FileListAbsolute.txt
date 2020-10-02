@@ -1,0 +1,16 @@
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Tests\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Tests\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Tests\bin\Debug\netcoreapp2.1\ReportService.Tests.deps.json
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Tests\bin\Debug\netcoreapp2.1\ReportService.Tests.runtimeconfig.json
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Tests\bin\Debug\netcoreapp2.1\ReportService.Tests.runtimeconfig.dev.json
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Tests\bin\Debug\netcoreapp2.1\ReportService.Tests.dll
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Tests\bin\Debug\netcoreapp2.1\ReportService.Tests.pdb
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Tests\obj\Debug\netcoreapp2.1\ReportService.Tests.dll
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Tests\obj\Debug\netcoreapp2.1\ReportService.Tests.pdb
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Tests\obj\Debug\netcoreapp2.1\Tests.genruntimeconfig.cache

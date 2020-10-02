@@ -1,0 +1,9 @@
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Storage\bin\Debug\netcoreapp2.1\ReportService.Storage.deps.json
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Storage\bin\Debug\netcoreapp2.1\ReportService.Storage.dll
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Storage\bin\Debug\netcoreapp2.1\ReportService.Storage.pdb
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Storage\obj\Debug\netcoreapp2.1\Storage.csprojAssemblyReference.cache
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Storage\obj\Debug\netcoreapp2.1\Storage.AssemblyInfoInputs.cache
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Storage\obj\Debug\netcoreapp2.1\Storage.AssemblyInfo.cs
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Storage\obj\Debug\netcoreapp2.1\Storage.csproj.CoreCompileInputs.cache
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Storage\obj\Debug\netcoreapp2.1\ReportService.Storage.dll
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\Storage\obj\Debug\netcoreapp2.1\ReportService.Storage.pdb

@@ -1,0 +1,14 @@
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeCodeApi\bin\Debug\netcoreapp2.1\ReportService.EmployeeCodeApi.deps.json
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeCodeApi\bin\Debug\netcoreapp2.1\ReportService.EmployeeCodeApi.dll
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeCodeApi\bin\Debug\netcoreapp2.1\ReportService.EmployeeCodeApi.pdb
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeCodeApi\bin\Debug\netcoreapp2.1\ReportService.BaseApi.dll
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeCodeApi\bin\Debug\netcoreapp2.1\ReportService.Interfaces.dll
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeCodeApi\bin\Debug\netcoreapp2.1\ReportService.BaseApi.pdb
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeCodeApi\bin\Debug\netcoreapp2.1\ReportService.Interfaces.pdb
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeCodeApi\obj\Debug\netcoreapp2.1\EmployeeCodeApi.csprojAssemblyReference.cache
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeCodeApi\obj\Debug\netcoreapp2.1\EmployeeCodeApi.AssemblyInfoInputs.cache
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeCodeApi\obj\Debug\netcoreapp2.1\EmployeeCodeApi.AssemblyInfo.cs
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeCodeApi\obj\Debug\netcoreapp2.1\EmployeeCodeApi.csproj.CoreCompileInputs.cache
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeCodeApi\obj\Debug\netcoreapp2.1\EmployeeCodeApi.csproj.CopyComplete
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeCodeApi\obj\Debug\netcoreapp2.1\ReportService.EmployeeCodeApi.dll
+C:\Work\course\ReportTestService\ReportTestService-master\ReportService\EmployeeCodeApi\obj\Debug\netcoreapp2.1\ReportService.EmployeeCodeApi.pdb

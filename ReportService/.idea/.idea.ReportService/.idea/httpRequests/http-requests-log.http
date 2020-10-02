@@ -1,0 +1,14 @@
+GET http://localhost:61378/api/report/2020/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-09-23T084454.500.html
+
+###
+
+GET http://localhost:61378
+Accept: */*
+Cache-Control: no-cache
+
+###
+
